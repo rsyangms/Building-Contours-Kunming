@@ -2,7 +2,7 @@
 Building Contours Kunming Data Generated Using Deep Learning
 
 #Dataset Preview
-![image](public/Dataset Preview.png)
+![image]([public/Dataset Preview.png](https://github.com/rsyangms/Building-Contours-Kunming/blob/main/%E5%9B%BE%E7%89%871.png))
 
 # Introduction to the dataset
 The study area of this dataset is the main urban area of Kunming City, Yunnan Province, China, and a total of 69,664 building profile elements were extracted.
